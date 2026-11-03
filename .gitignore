@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+.env
+.env.*
+!*.example
+/tmp
+__pycache__
+*.pyc
+/node_modules

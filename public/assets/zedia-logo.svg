@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 40 40" fill="none">
+  <!-- Fond sceau anthracite architectural -->
+  <rect width="40" height="40" rx="8" fill="#141413"/>
+  <!-- Filet d'encadrement intérieur -->
+  <rect x="3.5" y="3.5" width="33" height="33" rx="5" stroke="#2E2B28" stroke-width="1"/>
+  <!-- Équerre d'artisan ocre-bronze (coin supérieur droit) -->
+  <path d="M23 9.5H30.5V17" stroke="#D9833B" stroke-width="2.2" stroke-linecap="square"/>
+  <!-- Monogramme Z architectural en pierre claire -->
+  <path d="M11.5 13H26.5L12.5 27H28.5" stroke="#FAF9F6" stroke-width="2.8" stroke-linecap="square" stroke-linejoin="miter"/>
+  <!-- Point de précision ocre-bronze -->
+  <rect x="27" y="21.5" width="3" height="3" fill="#D9833B"/>
+</svg>
